@@ -20,7 +20,7 @@ hmtl, body{
 /* 1er contenedor */
 .fondo{
     height: 100vh;
-    background: url(img/cover-home.jpg) no-repeat center center fixed;
+    background: url(/img/cover-home.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -39,18 +39,26 @@ hmtl, body{
 /* Contenedor 2 bis */
 .mas{
     height: 100vh;
-    margin-top: 15px;
+    background: url(/img/coverpattern.png);
+   background-size: cover;
 }
 
 /* 4to contenedor */
 .cuarto{
-    margin-top: 30px;
-    background: url(img/cover.png) no-repeat center center fixed;
+    background: url(/img/cover.png) no-repeat center center fixed;
     height: 40vh;
 }
 
 /* 5to contenedor */
 .contacto{
-    background: url(img/cover.png) no-repeat center center fixed;
+    background: url(/img/cover.png) no-repeat center center fixed;
     height: 100vh;
+}
+
+/* MediaQuerys */
+
+@media (max-width: 768px){
+    .cuarto{
+        height: 20vh;
+    }
 }
