@@ -20,7 +20,7 @@ hmtl, body{
 /* 1er contenedor */
 .fondo{
     height: 100vh;
-    background: url(/portfolio/img/cover-home.jpg) no-repeat center center fixed;
+    background: url(img/cover-home.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -45,12 +45,12 @@ hmtl, body{
 /* 4to contenedor */
 .cuarto{
     margin-top: 30px;
-    background: url(/portfolio/img/cover.png) no-repeat center center fixed;
+    background: url(img/cover.png) no-repeat center center fixed;
     height: 40vh;
 }
 
 /* 5to contenedor */
 .contacto{
-    background: url(/portfolio/img/cover.png) no-repeat center center fixed;
+    background: url(img/cover.png) no-repeat center center fixed;
     height: 100vh;
 }
