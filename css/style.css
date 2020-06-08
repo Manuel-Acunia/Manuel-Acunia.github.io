@@ -39,8 +39,8 @@ hmtl, body{
 /* Contenedor 2 bis */
 .mas{
     height: 100vh;
-    background: url(/img/coverpattern.png);
-   background-size: cover;
+   /*  background: url(/img/coverpattern.png);
+   background-size: cover; */
 }
 
 /* 4to contenedor */
