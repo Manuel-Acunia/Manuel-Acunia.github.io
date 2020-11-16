@@ -66,6 +66,8 @@ hmtl, body{
         position:fixed;
         bottom:20px;
         left: 15px;
+        width: 2em;
+        height: 2em
         
     }
     #flotante2{
@@ -73,6 +75,8 @@ hmtl, body{
         position:fixed;
         bottom:20px;
         right: 15px;
+        width: 2em;
+        height: 2em;
     }
 
 }
