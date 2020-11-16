@@ -61,4 +61,17 @@ hmtl, body{
     .cuarto{
         height: 20vh;
     }
+    #flotante1{
+        display:scroll;
+        position:fixed;
+        bottom:20px;
+        left: 15px;
+        
+    }
+    #flotante2{
+        display:scroll;
+        position:fixed;
+        bottom:20px;
+        right: 15px;
+    }
 }
