@@ -62,21 +62,26 @@ hmtl, body{
         height: 20vh;
     }
     #flotante1{
+        font-size: 15px;
         display:scroll;
         position:fixed;
         bottom:20px;
         left: 15px;
-        width: 2em;
-        height: 2em
+        width: 10em;
+        height: 4em;
+        padding: 17px;
         
     }
     #flotante2{
+        font-size: 15px;
+        line-height: 20px;
         display:scroll;
         position:fixed;
         bottom:20px;
         right: 15px;
-        width: 2em;
-        height: 2em;
+        width: 10em;
+        height: 4em;
+        padding: 17px;
     }
 
 }
